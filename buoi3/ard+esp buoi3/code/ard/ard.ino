@@ -411,7 +411,7 @@ void setup()
   Serial.println("UART DYNAMIC BAUD RATE SYSTEM");
   Serial.println("ARDUINO UNO");
 Serial.println("================================");
-  Serial.println("MODE      : NORMAL");
+Serial.println("MODE      : NORMAL");
   Serial.println("BAUD RATE : 9600 bps");
   Serial.println();
   Serial.println("Hold BUTTON > 3 seconds");
@@ -456,4 +456,4 @@ void loop()
   {
     
   }
-}       
+}
