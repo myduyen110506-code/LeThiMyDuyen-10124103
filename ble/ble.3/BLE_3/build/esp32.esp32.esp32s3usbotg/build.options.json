@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\AD\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32s3usbotg:USBMode=hwcdc,UploadMode=default,PartitionScheme=default,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "C:\\Users\\AD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.12,C:\\Users\\AD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.12",
+  "otherLibrariesFolders": "c:\\Users\\AD\\OneDrive\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\TTIoT\\ble\\ble.3\\BLE_3"
+}
